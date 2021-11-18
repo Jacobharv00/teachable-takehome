@@ -8,6 +8,7 @@
 
 ```sh
 npm install
+npm install selenium-webdriver chromedriver geckodriver wdio-safaridriver-service
 ```
 
 ## Run tests
