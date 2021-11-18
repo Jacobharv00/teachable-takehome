@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to teachable-takehome 👋</h1>
+<h1 align="center">Welcome to my teachable-takehome assignment 👋</h1>
 <p>
 </p>
 
